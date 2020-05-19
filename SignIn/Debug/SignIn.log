@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+e:\signin\signin\strtoch.h(14): warning C4172: returning address of local variable or temporary: char_array
+  AssemblyInfo.cpp
+  MessageSend.cpp
+  MessageView.cpp
+  MyForm1.cpp
+  MyForm2.cpp
+  SignIn.cpp
+  SignUpForm.cpp
+  Generating Code...
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  SignIn.vcxproj -> E:\SignIn\Debug\SignIn.exe
